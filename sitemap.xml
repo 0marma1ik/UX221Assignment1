@@ -17,7 +17,22 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/top-brands-for-fragrances/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/different-levels-of-fragrances/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/eau-de-parfum/
         </loc>
     </url>
     <url>
@@ -58,6 +73,11 @@
     <url>
         <loc>
             http://localhost:8000/tag/fragrance/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/edp/
         </loc>
     </url>
     <url>
